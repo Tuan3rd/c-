@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OOPConsole/OOPConsole.csproj" />
+  <Project Path="OOPLib.Tests/OOPLib.Tests.csproj" />
+  <Project Path="OOPLib/OOPLib.csproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Bai1_HoTen/Bai1_HoTen.csproj" />
+  <Project Path="Bai2345_NhapXuat/Bai2345_NhapXuat.csproj" />
+  <Project Path="Bai6_17_LopVaMang/Bai6_17_LopVaMang.csproj" />
+  <Project Path="BaiTapLogic.Tests/BaiTapLogic.Tests.csproj" />
+  <Project Path="BaiTapLogic/BaiTapLogic.csproj" />
+</Solution>
