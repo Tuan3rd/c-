@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BaiThucHanhLINQ/BaiThucHanhLINQ.csproj" />
+  <Project Path="LinqLogic.Tests/LinqLogic.Tests.csproj" />
+  <Project Path="LinqLogic/LinqLogic.csproj" />
+</Solution>
