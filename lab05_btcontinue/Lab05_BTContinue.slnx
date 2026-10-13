@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab05ContinueWinForms/Lab05ContinueWinForms.csproj" />
+  <Project Path="WinForm05ContinueLogic.Tests/WinForm05ContinueLogic.Tests.csproj" />
+  <Project Path="WinForm05ContinueLogic/WinForm05ContinueLogic.csproj" />
+</Solution>

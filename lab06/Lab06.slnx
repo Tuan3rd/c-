@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab06WinForms/Lab06WinForms.csproj" />
+  <Project Path="QLSinhVienLogic.Tests/QLSinhVienLogic.Tests.csproj" />
+  <Project Path="QLSinhVienLogic/QLSinhVienLogic.csproj" />
+</Solution>

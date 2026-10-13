@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab04WinForms/Lab04WinForms.csproj" />
+  <Project Path="WinFormLogic.Tests/WinFormLogic.Tests.csproj" />
+  <Project Path="WinFormLogic/WinFormLogic.csproj" />
+</Solution>
